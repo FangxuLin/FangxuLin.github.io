@@ -1,2 +1,2 @@
-# FangxuLin.github.io
-My portfolio
+# Fangxu.github.io
+Fangxu's portfolio
